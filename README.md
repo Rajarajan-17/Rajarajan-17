@@ -22,5 +22,5 @@
 
 📧 *Alternate Email*: rajarajan170703@gmail.com
 
-📱 *Phone: tel:+919345318845
+📱 *Phone: +919345318845
 
