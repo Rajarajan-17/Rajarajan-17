@@ -1,6 +1,5 @@
 ##Hi there 👋
 
-<!--
 🚀 About Me
 
 👋 Hi, I'm Rajarajan!
@@ -25,5 +24,3 @@
 
 📱 *Phone: tel:+919345318845
 
-
--->
