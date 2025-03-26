@@ -1,16 +1,29 @@
-## Hi there 👋
+##Hi there 👋
 
 <!--
-**Rajarajan-17/Rajarajan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+👋 Hi, I'm Rajarajan!
+ I am a Developer passionate about building efficient, scalable, and secure applications. With a strong foundation in Java, Spring Framework, and Full-Stack Development, I am constantly improving my skills to create impactful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠 Skills & Technologies
+
+🔹 Backend Development with Java & Spring Framework
+🔹 Database Management (MySQL)
+🔹 Web Development (HTML, CSS, JavaScript, Bootstrap)
+🔹 Problem-Solving & Debugging
+
+📫 Connect with Me
+
+## 📞 Contact Me  
+
+🔗 *LinkedIn*: https://www.linkedin.com/in/rajarajan03
+
+📧 *Email*: gokulmass36@gmail.com
+
+📧 *Alternate Email*: rajarajan170703@gmail.com
+
+📱 *Phone: tel:+919345318845
+
+
 -->
